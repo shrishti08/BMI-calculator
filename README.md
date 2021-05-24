@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter application.
+A Flutter Application to calculate BMI using weight and height as inputs.
 
 ## Getting Started
 
